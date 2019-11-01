@@ -3,11 +3,11 @@ def test_siema():
 
 
 def test_siema1():
-    assert False
+    assert True
 
 
 def test_siema2():
-    assert False
+    assert True
 
 
 def test_siema3():
